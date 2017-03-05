@@ -51,3 +51,6 @@ both strings (std:string)
 
 * **Assignment Operator**  
   * Define an appropriate assignment operator  
+
+
+# UML Diagram  
