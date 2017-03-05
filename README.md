@@ -17,7 +17,7 @@ both strings (std:string)
 
 
 
-#### * bool isEmpty() 
+*####  bool isEmpty() 
 If the Map contains no elements, this should return true; otherwise, returns false.
 
 
