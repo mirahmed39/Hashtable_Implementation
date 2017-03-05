@@ -1,7 +1,7 @@
 # StringMap
 
 ~~~
-
+--- Details:
 This project implements a StringMap ADT. In general, a Map (Dictionary) is an ADT that maps a key to a value,
 and offers efficient operations to add, retrieve, and delete values based on some key. An array T[] 
 can be thought of as a kind of "Map"  where the keys are always integers and the values can be anything 
@@ -14,7 +14,7 @@ both strings (std:string)
 # ADT Specifications:
 ###The ADT supports the following operations.
 
-bool isEmpty()
+bool isEmpty() 
 If the Map contains no elements, this should return true; otherwise, returns false.
 
 int getSize()
