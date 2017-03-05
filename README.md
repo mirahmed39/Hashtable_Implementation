@@ -54,4 +54,4 @@ both strings (std:string)
 
 
 # UML Diagram  
-![alt-text](https://github.com/mirahmed39/StringMap/blob/master/StringMap_UML.png "UML_Diagram")
+![alt-text](https://github.com/mirahmed39/StringMap/blob/master/StringMap_UML.png "StringMap_UML_Diagram")
