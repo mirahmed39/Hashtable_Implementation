@@ -14,32 +14,31 @@ both strings (std:string)
 # ADT Specifications:
 ###The ADT supports the following operations.
 
----
-###bool isEmpty()
+bool isEmpty()
 If the Map contains no elements, this should return true; otherwise, returns false.
----
-###int getSize()
+
+int getSize()
 Returns the number of key-value pairs (elements) stored in the Map
----
-###bool addValue(string key, string value)
+
+bool addValue(string key, string value)
 if the key AND value is valid, stores the valid key-value pair, and returns true
 if key or value is invalid (empty string), returns false
----
-###string getValue(string key)
+
+string getValue(string key)
 If a value associated with the given key exists, returns it; otherwise throws an exception
----
-###bool deleteValue(string key)
+
+bool deleteValue(string key)
 If a value associated with the given key exists, removes it, and returns true; otherwise, returns false.
----
-###void clear() 
+
+void clear() 
 Removes all elements. Subsequent call to isEmpty() should yield true
----
-###bool contains(string key)
+
+bool contains(string key)
 If a value associated with the given key exists, returns true; otherwise, returns false.
----
-###Copy Constructor
+
+Copy Constructor
 Define an appropriate copy constructor
----
-###Assignment Operator
+
+Assignment Operator
 Define an appropriate assignment operator
 
